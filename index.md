@@ -19,3 +19,7 @@ layout: default
 
 - Latest release: [download]({{ windows_repo.html_url }}/releases/latest)
 - Source code: [GitHub]({{ windows_repo.html_url }})
+
+* * *
+
+[**Donate**](./donate.html)
